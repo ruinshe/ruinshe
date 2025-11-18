@@ -15,7 +15,7 @@ With **15 years of coding experience** (rooted in competitive programming like I
 | **Experience**        | 10+ years of professional engineering experience.                                                     |
 | **Primary Languages** | Java, Golang                                                                                          |
 | **System Leadership** | Product Strategy & Roadmap Planning for the NEXhome IoT Platform.                                     |
-| **Current Focus**     | Chief AI Architect (AI Agents production architecture design for Smart Home/Intercom).                |
+| **Current Focus**     | AI Agents production architecture design for Smart Home/Intercom.                                     |
 | **Backend & Infra**   | Domain-Driven Design (DDD), Spring, Kratos (Golang Framework).                                        |
 | **Infrastructure**    | Long-term code base maintenance, continuous upgrading, and internal framework development (7+ years). |
 | **IoT Domain**        | Unifying device and SaaS-side communication.                                                          |
