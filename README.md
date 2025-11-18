@@ -27,7 +27,7 @@ With **15 years of coding experience** (rooted in competitive programming like I
 
 While my primary work involves closed-source corporate infrastructure, I enjoy engaging with and contributing to the broader tech community and personal tooling.
 
-- [UESTC-ACM/CDOJ](https://github.com/UESTC-ACM/CDOJ): Archived project reflecting my deep roots in competitive programming (ICPC). CDOJ is a comprehensive platform for hosting contests, managing problems, and automatically evaluating code submissions.
+- [UESTC-ACM/CDOJ (archived)](https://github.com/UESTC-ACM/CDOJ): my first project in competitive programming (ICPC). CDOJ is a comprehensive platform for hosting contests, managing problems, and automatically evaluating code submissions.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos): Active user and community member, providing feedback, issues, and participating in discussions for this Golang microservices framework.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai): Contributed to this tool for generating Kubernetes commands using AI.
 - [rafaelsq/nvim-goc.lua](https://github.com/rafaelsq/nvim-goc.lua): Contributed minor bug fixes to this Neovim plugin for enhanced Golang development.
