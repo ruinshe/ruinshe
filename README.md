@@ -58,13 +58,16 @@ Stay updated with my latest technical explorations and thoughts on [my blog](htt
 
 ---
 
-### 🎮 Fun Facts & Hobbies
+### 🎮 Hobbies
 
 When I'm not designing architecture or writing code, you might find me:
 
 - Slaying demons in **Diablo II**.
 - Hunting massive beasts in **Monster Hunter**.
 - Remembering my roots with classic **Pokémon** games.
+
+### 💡 Fun Facts
+
 - I've used Arch Linux for over a decade and transitioned all my machines to NixOS in 2025.
 - I've switched from Emacs to NeoVim as my primary editor.
 
