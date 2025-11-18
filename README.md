@@ -10,16 +10,14 @@ With **15 years of coding experience** (rooted in competitive programming like I
 
 ### 🚀 Key Focus & Expertise
 
-| Area                  | Technologies & Skills                                                                                 |
-| :-------------------- | :---------------------------------------------------------------------------------------------------- |
-| **Experience**        | 10+ years of professional engineering experience.                                                     |
-| **Primary Languages** | Java, Golang                                                                                          |
-| **System Leadership** | Product Strategy & Roadmap Planning for the NEXhome IoT Platform.                                     |
-| **Current Focus**     | AI Agents production architecture design for Smart Home/Intercom.                                     |
-| **Backend & Infra**   | Domain-Driven Design (DDD), Spring, Kratos (Golang Framework).                                        |
-| **Infrastructure**    | Long-term code base maintenance, continuous upgrading, and internal framework development (7+ years). |
-| **DevOps**            | Kubernetes DevOps workflows, Terraform-based IaC workflows.                                           |
-| **IoT Domain**        | Unifying device and SaaS-side communication.                                                          |
+- **Experience**: 10+ years of professional engineering experience.
+- **Primary Languages**: Java, Golang
+- **System Leadership**: Product Strategy & Roadmap Planning for the NEXhome IoT Platform.
+- **Current Focus**: AI Agents production architecture design for Smart Home/Intercom.
+- **Backend & Infra**: Domain-Driven Design (DDD), Spring, Kratos (Golang Framework).
+- **Infrastructure**: Long-term code base maintenance, continuous upgrading, and internal framework development (7+ years).
+- **DevOps**: Kubernetes DevOps workflows, Terraform-based IaC workflows.
+- **IoT Domain**: Unifying device and SaaS-side communication.
 
 ---
 
