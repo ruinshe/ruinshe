@@ -18,6 +18,7 @@ With **15 years of coding experience** (rooted in competitive programming like I
 | **Current Focus**     | AI Agents production architecture design for Smart Home/Intercom.                                     |
 | **Backend & Infra**   | Domain-Driven Design (DDD), Spring, Kratos (Golang Framework).                                        |
 | **Infrastructure**    | Long-term code base maintenance, continuous upgrading, and internal framework development (7+ years). |
+| **DevOps**            | Kubernetes DevOps workflows, Terraform-based IaC workflows.                                           |
 | **IoT Domain**        | Unifying device and SaaS-side communication.                                                          |
 
 ---
@@ -64,6 +65,8 @@ When I'm not designing architecture or writing code, you might find me:
 - Slaying demons in **Diablo II**.
 - Hunting massive beasts in **Monster Hunter**.
 - Remembering my roots with classic **Pokémon** games.
+- I've used Arch Linux for over a decade and transitioned all my machines to NixOS in 2025.
+- I've switched from Emacs to NeoVim as my primary editor.
 
 ---
 
