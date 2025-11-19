@@ -82,6 +82,6 @@ When I'm not designing architecture or writing code, you might find me:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruinshe&exclude_repo=ruinshe.github.io&langs_count=8" alt="Top Langs">
-<img src="https://github-readme-stats.vercel.app/api?username=ruinshe&show_icons=true&count_private=true" alt="Ruins' github stats">
+<img src="https://github-readme-stats.ruinshe.fun/api/top-langs/?username=ruinshe&langs_count=8&count_private=true" alt="Top Langs">
+<img src="https://github-readme-stats.ruinshe.fun/api?username=ruinshe&show_icons=true&count_private=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Ruins' github stats">
 </p>
