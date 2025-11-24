@@ -40,11 +40,11 @@ While my primary work involves closed-source corporate infrastructure, I enjoy e
 
 Stay updated with my latest technical explorations and thoughts on [my blog](https://blog.ruinshe.fun):
 
+- 🗓️ **2025-11-23**: [使用 Envoy Gateway 代替 Ingress Controller 的非云 SLB 解决方案](https://blog.ruinshe.fun/2025/11/23/obsidian/b072c64b-659d-4845-9e8b-6aa07fb3da3c/)
 - 🗓️ **2024-05-22**: [跨 Kubernetes 集群对接 Vault by Hashicorp](https://blog.ruinshe.fun/2024/05/22/obsidian/f965de4e-1a74-49d7-b49a-ca27215a89e5/)
 - 🗓️ **2024-03-16**: [分享一下我的 RSS 方案](https://blog.ruinshe.fun/2024/03/16/obsidian/40417926-96cd-46b2-a00c-ef7ff7437417/)
 - 🗓️ **2024-01-04**: [配置 Rabbit MQ 全局的消息过期时间](https://blog.ruinshe.fun/2024/01/04/obsidian/d5f6f84d-1d35-4221-8b72-9ab0cb4bdbbc/)
 - 🗓️ **2023-11-20**: [Bochs 的实时时钟](https://blog.ruinshe.fun/2023/11/20/obsidian/591491c7-7f7f-445f-94d5-5f47a4de8aa2/)
-- 🗓️ **2023-11-05**: [使用 Obsidian 管理我的博客](https://blog.ruinshe.fun/2023/11/05/obsidian/7b89a1b1-b4f6-442a-8002-32e046f525e0/)
 
 ---
 
