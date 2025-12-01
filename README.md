@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ruinshe&color=blue)](https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Druinshe%26color%3Dblue)
 
-**Chief AI Architect** | **Software Manager & IoT Platform Lead** at [NEXhome Inc](https://github.com/nexhome-org).
+**Chief AI Architect** | **AIoT Platform Lead** at [NEXhome Inc](https://github.com/nexhome-org).
 
 With **15 years of coding experience** (rooted in competitive programming like ICPC) and **10+ years of professional software engineering**, I specialize in building resilient, scalable backend systems. I hold a dual leadership role: driving the strategic roadmap for the NEXhome IoT platform and leading the architectural design for next-generation **AI Agents** in the Smart Home and Intercom domains.
 
